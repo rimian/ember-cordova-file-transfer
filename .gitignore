@@ -7,7 +7,7 @@
 /tmp
 
 # cordova
-filetransfer/node_modules
+cordova/node_modules
 
 # iOS
 cordova/platforms/ios/build/
