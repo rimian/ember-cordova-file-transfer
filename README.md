@@ -22,3 +22,5 @@ You will need the following things properly installed on your computer.
 * `cordova plugin add cordova-plugin-camera`
 
 ## Running / Development
+
+`open ./cordova/platforms/ios/FileTransfer.xcworkspace/`
