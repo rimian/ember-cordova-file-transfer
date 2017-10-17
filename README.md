@@ -16,6 +16,8 @@ You will need the following things properly installed on your computer.
 * `git clone <repository-url>` this repository
 * `cd ember-cordova-file-transfer`
 * `npm install`
-* `cd cordova && cordova platform add ios`
+* `cd cordova`
+* `cordova platform add ios`
+* `cordova plugin add cordova-plugin-file-transfer`
 
 ## Running / Development
