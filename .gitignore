@@ -1,8 +1,19 @@
 # See https://help.github.com/ignore-files/ for more about ignoring files.
 
+.DS_Store
+
 # compiled output
 /dist
 /tmp
+
+# cordova
+filetransfer/node_modules
+
+# iOS
+cordova/platforms/ios/build/
+cordova/platforms/ios/www/
+cordova/platforms/ios/cordova/console.log
+*.xcuserdatad
 
 # dependencies
 /node_modules
