@@ -19,5 +19,6 @@ You will need the following things properly installed on your computer.
 * `cd cordova`
 * `cordova platform add ios`
 * `cordova plugin add cordova-plugin-file-transfer`
+* `cordova plugin add cordova-plugin-camera`
 
 ## Running / Development
